@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the d7pf_panel_pp_links feature.
+ */
+
+include_once 'd7pf_panel_pp_links.features.inc';
